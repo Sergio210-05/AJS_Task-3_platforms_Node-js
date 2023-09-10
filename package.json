@@ -1,0 +1,23 @@
+{
+  "name": "ajs_task-3_platforms_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sergio210-05/AJS_Task-3_platforms_Node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergio210-05/AJS_Task-3_platforms_Node-js/issues"
+  },
+  "homepage": "https://github.com/Sergio210-05/AJS_Task-3_platforms_Node-js#readme",
+  "dependencies": {
+    "@sergio210-05/ajs_task-3_platforms": "^1.0.0"
+  }
+}
